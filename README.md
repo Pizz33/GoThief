@@ -19,3 +19,11 @@ go build -trimpath -ldflags="-s -w -H windowsgui" main.go
 ![image](https://github.com/Pizz33/GoThief/assets/88339946/6d7282e9-640c-4253-b63e-38ed46ed35ce)
 
 ![image](https://github.com/Pizz33/GoThief/assets/88339946/eeff920c-78a7-4c96-ac66-22bcd6be8876)
+
+## References
+
+https://github.com/atotto/clipboard
+
+https://github.com/vova616/screenshot
+
+https://github.com/uknowsec/keylogger
